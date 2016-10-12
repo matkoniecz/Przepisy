@@ -1,0 +1,18 @@
+<liczba> <porcja|porcje|porcji>
+<liczba> min + <liczba> min (<co trwa tyle a nie wymaga interwenji>)
+
+<ilość><jednostka> <składnik>
+<ilość><jednostka> <składnik>
+<ilość><jednostka> <składnik>
+<nazwa>:
+<ilość><jednostka> <składnik do tej części>
+<ilość><jednostka> <składnik do tej części>
+<nazwa>:
+<ilość><jednostka> <składnik do tej części>
+<ilość><jednostka> <składnik do tej części>
+
+krok 1
+krok 2
+krok 3
+
+źródło: <tekst>
