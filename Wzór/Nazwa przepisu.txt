@@ -1,5 +1,5 @@
 <liczba> <porcja|porcje|porcji>
-<liczba> min + <liczba> min (<co trwa tyle a nie wymaga interwenji>)
+<liczba> min|h + <liczba> min|h (<co trwa tyle a nie wymaga interwenji>)
 
 <ilość><jednostka> <składnik>
 <ilość><jednostka> <składnik>
