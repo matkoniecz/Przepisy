@@ -1,3 +1,6 @@
+? porcji
+? min
+
 40 minut
 4 porcje, dobrze się skaluje
 
