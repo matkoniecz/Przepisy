@@ -4,9 +4,11 @@
 <ilość><jednostka> <składnik>
 <ilość><jednostka> <składnik>
 <ilość><jednostka> <składnik>
+
 <nazwa>:
 <ilość><jednostka> <składnik do tej części>
 <ilość><jednostka> <składnik do tej części>
+
 <nazwa>:
 <ilość><jednostka> <składnik do tej części>
 <ilość><jednostka> <składnik do tej części>
