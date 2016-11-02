@@ -1,17 +1,20 @@
 <liczba>[-<liczba>] <porcja|porcje|porcji>
 <liczba> min|h[ + <liczba> min|h (<co trwa tyle a nie wymaga interwenji>)]
 
+<ilość><jednostka> <składnik> (<komentarz o składniku>)
 <ilość><jednostka> <składnik>
 <ilość><jednostka> <składnik>
-<ilość><jednostka> <składnik>
+(<ilość><jednostka> <opcjonalny składnik>)
+
+<nazwa>:
+<ilość><jednostka> <składnik do tej części>
+<ilość><jednostka> <składnik do tej części> (<komentarz o składniku>)
+(<ilość><jednostka> <opcjonalny składnik>)
 
 <nazwa>:
 <ilość><jednostka> <składnik do tej części>
 <ilość><jednostka> <składnik do tej części>
-
-<nazwa>:
-<ilość><jednostka> <składnik do tej części>
-<ilość><jednostka> <składnik do tej części>
+(<ilość><jednostka> <opcjonalny składnik> (<komentarz o składniku>))
 
 krok 1
 krok 2
