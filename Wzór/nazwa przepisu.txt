@@ -1,5 +1,5 @@
 <liczba>[-<liczba>] <porcja|porcje|porcji>
-<liczba> min|h[ + <liczba> min|h (<co trwa tyle a nie wymaga interwenji>)]
+<liczba> min|minut|minuty|minuta|h|godzina|godzin|godziny[ + <liczba> min|minut|minuty|minuta|h|godzina|godzin|godziny (<co trwa tyle a nie wymaga interwenji>)]
 przystawka|
 
 <ilość><jednostka> <składnik> (<komentarz o składniku>)
