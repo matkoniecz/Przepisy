@@ -1,26 +1,29 @@
-na dwa obiady (ile porcji)
-? min
+10 porcji
+100 min
+25 min pracy - czas stały, niezależny od ilości składników, 75 min czas zależny od ilości składników
+można jeść na zimno, bardzo dobre po odgrzaniu
 
 dwie podwójne piersi z kurczaka (1kg)
-marchewka x6 (0,9 kg)
-ziemniaki x6 (0,8 kg)
-cebula x9 (0,9 kg)
-curry 6 płaskie łyżeczki (20g)
-sól 2 płaskie łyżeczki (10g)
+marchewka 0,9 kg (6 sztuk)
+ziemniaki 0,8 kg (6 sztuk)
+cebula 0,9 kg (9 sztuk)
+curry 16g (6 płaskich łyżeczek)
+sól 10g (2 płaskie łyżeczki)
 4 łyżki oleju
+0,5 l wody
+50g x ilość porcji ryżu
 
 potrawa robiona w szklanym naczyniu żaroodpornym
 
 pokroić kurczak w kostkę, dusić na tłuszczu mieszając co jakiś czas
 dodać poszatkowaną cebulę {3s na programie 5 w moim mikserze}, nadal dusić
 w tym czasie pokroić marchewkę w plasterki a ziemniaki w kostkę
-dodać warzywa, zalać wodą
+dodać warzywa, zalać wodą (0,5l)
+dodać curry
 w tym momencie powinno minąć około godzina od zaczęcia szykowania
 zacząć szykować ryż (torebka na porcję)
 gotować przez pół godziny
 wyłączyć, zostawić by się przeszło i trochę ostudziło
 jeśli brak sosu - dolać wody (zwłaszcza przy odgrzewaniu)
-
-można jeść na zimno, można odgrzewać
 
 źródło: Mama
