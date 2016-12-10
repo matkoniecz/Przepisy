@@ -1,6 +1,6 @@
 4 porcje
 20 min
-bardzo dobre na zimno (jako pasta do chleba) lub odgrzewane (ostrożnie - ny nie zważyć)
+bardzo dobre na zimno (jako pasta do chleba) lub odgrzewane (ostrożnie - by nie zważyć), sos można zamrażać (zamrażanie makaronu nie było testowane)
 z 20 min szykowania 10 min skaluje się liniowo według ilości obiadu a 10 jest stałe
 
 400 g makaronu spaghetti
@@ -10,8 +10,6 @@ z 20 min szykowania 10 min skaluje się liniowo według ilości obiadu a 10 jest
 1 ząbek czosnku
 pół łyżeczki rozmarynu
 50g parmezanu (lub inny ostry ser)
-sól
-pieprz
 (2 pomidory jako dodatek)
 
 Makaron gotujemy w dużej ilości osolonej wody na półtwardo.
