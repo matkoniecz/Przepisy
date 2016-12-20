@@ -1,23 +1,18 @@
-For six
+6 porcji
+1 godzina + 2	godziny oczekiwania na zakończenie gotowania
+40 minut skaluje się liniowo, 20 minut jest stałe
+powyższy czas jest do weryfikacji
 
- 4	lb onions, any type
-	
+ 1.8 kg onions, any type
  4	cloves garlic
-	
- 2	tbsp butter
-	
+ 28 g butter
  2	bay leaves
-	
  1	tbsp vinegar, any type (optional)
-	
  3	tsp salt
 		pepper
-	
- 8	cups water
-	
+ 1.8 l water
  6	slices bread
-	
- 11⁄2	cups cheddar, grated
+ 80g cheddar, grated
 additions
 		beef or chicken stock instead of water
 		red wine
