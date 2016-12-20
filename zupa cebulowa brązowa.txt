@@ -2,6 +2,7 @@
 1 godzina + 2	godziny oczekiwania na zakończenie gotowania
 40 minut skaluje się liniowo, 20 minut jest stałe
 powyższy czas jest do weryfikacji
+W źródle zatytułowana "French Onion Soup"
 
  1.8 kg onions, any type
  4	cloves garlic
