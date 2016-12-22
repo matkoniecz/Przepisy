@@ -1,5 +1,6 @@
-? porcji
+5 porcji
 ? minut
+ilość porcji zgadnięta
 
 figi suszone 1/4 kg
 śliwki suszone 1/4 kg
