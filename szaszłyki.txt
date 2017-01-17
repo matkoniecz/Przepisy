@@ -7,6 +7,7 @@ potrzebne są patyczki do szaszłyków (można od biedy piec w żaroodpornym nac
 (przetestować: filety z ryby)
 (przetestować: plasterki z cytryny)
 (przetestować: marchew)
+(przetestować: ząbki czosnku)
 (przetestować: suszone morele)
 filet z kurczaka 1 kg
 tania kiełbasa (taka jak na ognisko) 100 g (wyeliminować jako przetworzone?)
