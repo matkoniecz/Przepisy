@@ -1,5 +1,5 @@
 6 porcji
-1 godzina + 2	godziny oczekiwania na zakończenie gotowania
+1 godzina + 2 godziny oczekiwania na zakończenie gotowania
 40 minut skaluje się liniowo, 20 minut jest stałe
 powyższy czas jest do weryfikacji
 W źródle zatytułowana "French Onion Soup"
@@ -8,8 +8,8 @@ W źródle zatytułowana "French Onion Soup"
 4 ząbki czosnku
 28 g masła
 2 liście laurowe
-1	łyżka dowolnego octu (można pominąć)
-3	łyżeczki soli
+1 łyżka dowolnego octu (można pominąć)
+3 łyżeczki soli
 pieprz
 1.8 l wody
 6 kromek chleba
@@ -61,4 +61,4 @@ If you don’t like soggy toast, just make
 the cheese toast on its own and serve it
 on the side to dunk.
 
-źródło: EAT WELL ON $ 4/DAY GOOD AND CHEAP LEANNE BROWN
+źródło: Good and Cheap: Eat Well on $4/Day by Leanne Brown
