@@ -1,41 +1,42 @@
 6 porcji
-1 godzina + 2 godziny oczekiwania na zakończenie gotowania
-40 minut skaluje się liniowo, 20 minut jest stałe
+X - 1 godzina + 2 godziny oczekiwania na zakończenie gotowania (40 minut skaluje się liniowo, 20 minut jest stałe)
+X - 100 minut, w tym 40 liniowo + 1,5 godziny oczekiwania na koniec gotowania
 powyższy czas jest do weryfikacji
 W źródle zatytułowana "French Onion Soup"
 
-1.8 kg cebul
+1.8 kg cebul (ilość zupy jest kilka razy mniejsza niż ilość cebul, nie bać zrobić się większej porcji bo tą ilość jeden Mateusz potrafi zjeść w jeden dzień)
 4 ząbki czosnku
 28 g masła
 2 liście laurowe
 1 łyżka dowolnego octu (można pominąć)
-3 łyżeczki soli
-pieprz
+3 łyżeczki soli (mniej, zwłaszcza jeśli wywar z mięsa jest już z solą - np zawiera wodę z oliwek)
+0.5 łyżeczki pieprzu
 1.8 l wody
 6 kromek chleba
 60g sera żółtego
 
 dodatki:
 (wywar z wołowiny lub kurczaka z 0.5 kg mięsa - zamiast wody)
+(wywar z warzyw - nie za dużo)
 (czerwone wino)
 (papryka chili)
 (świeży tymianek)
 
-Chop each onion in half lengthwise,
-peel them, then cut them into half-
-moon slices. These big slices are fine
-since you’re cooking the onions for so
-long. Slice the garlic as well.
-Melt the butter in a large pot on
-medium heat. Add the onions, garlic,
-and bay leaves. Cover the pot with a
-lid and leave it for 10 minutes. When
+Obrać cebule, pokroić w połówki a potem w półksiężyce.
+Kawałki mogą być spore bo cebule będą bardzo długo gotowane.
+Pokroić czosnek.
+Stopić masło w dużym garnku, najlepiej woku.
+Dodać cebule, czosnek, liście laurowe.
+Przykryć i zostawić na 10 minut.
+When
 you come back, the onions should have
 released a lot of moisture. Give them a
-stir. Pour in the vinegar and put the lid
-back on.
-Cook for 1 hour, stirring every 20
-minutes. When the onions at the
+stir.
+
+Wlać ocet i przykryć z powrotem.
+Gotować godzinę, mieszając co 20 minut.
+
+When the onions at the
 bottom start to stick and turn dark,
 add a splash of water to unstick them.
 Don’t worry, the onions aren’t burning,
@@ -49,16 +50,12 @@ turn the heat down to low, and let it
 simmer for another hour. Taste and
 adjust salt and pepper as needed.
 Ladle the soup into bowls.
-Now it’s time to make cheese toast! If
-you want classic French onion soup—
-with the toast directly in the soup,
-which makes it a bit soggy—place a
-piece of bread on top of each bowl of
-soup, sprinkle with cheese, then heat
-the bowls under your oven’s broiler
-until the cheese is bubbly.
-If you don’t like soggy toast, just make
-the cheese toast on its own and serve it
-on the side to dunk.
+
+Francuska tradycyjna wersja z rozmoczonymi
+grzankami: włożyć kromkę chleba do zupy,
+posypać serem i włożyć do piekarnika.
+Czekać aż ser się stopi.
+
+Można też zrobić grzanki osobno.
 
 źródło: Good and Cheap: Eat Well on $4/Day by Leanne Brown
