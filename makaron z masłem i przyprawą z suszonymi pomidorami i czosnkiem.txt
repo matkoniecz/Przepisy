@@ -1,5 +1,5 @@
 1 porcja
-3 minuty + 5 minut czekania aż makaron się ugotuje
+3 minuty + 16 minut czekania aż najpierw woda się zagotuje (z 6 minut) a poteż aż makaron się ugotuje (z 10 minut)
 
 140g makaronu
 1,4l wody
@@ -9,3 +9,5 @@ pół łyżki soli
 
 gotować makaron w osolonej wodzie
 dać masło i przyprawę
+
+źródło: Mateusz
