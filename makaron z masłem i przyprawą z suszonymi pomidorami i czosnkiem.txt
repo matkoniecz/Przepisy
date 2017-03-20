@@ -1,5 +1,5 @@
 1 porcja
-3 minuty + 16 minut czekania aż najpierw woda się zagotuje (z 6 minut) a poteż aż makaron się ugotuje (z 10 minut)
+3 minuty + 16 minut czekania aż najpierw woda się zagotuje (z 6 minut) a potem aż makaron się ugotuje (z 10 minut)
 
 140g makaronu
 1,4l wody
