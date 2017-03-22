@@ -1,27 +1,22 @@
-8 porcji
-4 h
+? porcji - z dwa szaszłyki i 50g ryżu na porcję
+? h
 potrzebne są patyczki do szaszłyków (można od biedy piec w żaroodpornym naczyniu, ale wychodzą smażone w oliwie a nie pieczone)
 
-filet z kurczaka 1000 g (spróbować 900g)
-tania kiełbasa (taka jak na ognisko) 100 g (wyeliminować jako przetworzone?)
-boczek 200 g (spróbować 100g)
-papryka x2
-cebula x2
-pomidory x3 (więcej?)
+papryka x3
+cebula x3
+pomidory x4
 pieczarki 250g (15 sztuk)
-jabłko (najlepiej szare renety) x2
+jabłko x4
 oliwki 4 łyżki (zarówno czarne jak i zielone są dobre)
-śliwki suszone 400g (zamienić na garście)
-seler naciowy - 3? kawałki 200g
-cukinia (ile?)
+śliwki suszone 2 garście
+seler naciowy - 5 łodyg
+cukinia 0.5 kg
 marchewka
 przyprawa do szaszłyków (bez glutaminianu sodu) [grill pikantny marki Prymat jest sprawdzony] [ile?]
-kasza gryczana niepalona 400g (po 50g na porcję?) / makaron 400g (po 50g na porcję?) / ryż?
+??kasza gryczana niepalona 400g (po 50g na porcję?) / ??makaron 400g (po 50g na porcję?) / ryż (po 50g na porcję)
 słonecznik (do posypania - ile?)
 
-można pomijać składniki - na przykład po pominięciu mięsa wyjdzie całkiem dobry szaszłyk wegetariański (patrz plik szaszłyki warzywne.txt)
-
-pokroić kurczaka, seler naciowy w kostkę
+pokroić seler naciowy w kostkę
 oliwek, śliwek nie kroić
 cukinie, marchew pokroić w cieńkie plastry
 wszystko pozostałe pokroić w plasterki (cebule - tak by były krążki, jeśli pieczarki są małe można użyć je w całości)
@@ -36,8 +31,8 @@ pod koniec pieczenia można położyć ser żółty
 
 piec 25-30 minut w 180°
 
-podawać z kaszą jaglaną, z ryżem, same...
+można podawać z ryżem, same...
 
 do formy na dno można włożyć np. cebuli lyb innych składników posypanych przyprawą do szaszłyków by więcej upiec za jednym zamachem
 
-źródło: Mama (kurczak + kiełbasa + boczek + papryka + cebula + pieczarki), dodatkowe składniki - mój pomysł i testowanie
+źródło: ja, na podstawie pliku szaszłyki.txt (praprzodkiem jest szaszłyk Mamy - ale tam było niemal same mięso...)
