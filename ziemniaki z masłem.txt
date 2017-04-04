@@ -1,10 +1,13 @@
-? porcji
-? minut
+1 porcja
+12 + 28 minut czekania minut
 
-ziemniaki - ile?
-masło - ile?
-sól - ile
-(szczypiorek)
+3 ziemniaki (550g, czyli z 350g po obraniu - z 7 jeśli malutkie, lub 2 duże) (czy już dobrze? Do weryfikacji)
+masło 1 łyżka
+sól 1 łyżeczka
+(szczypiorek 1g)
 
-Ugotować ziemniaki (zagotować ziemniaki, potem gotować z 20 minut)
+Obrać ziemniaki, jeśli duże to pokroić na kawałki
+Zagotować ziemniaki, potem gotować z 20 minut
 Podać z masłem, zielenina jest dobrym dodatkiem
+
+źródło: Mama
