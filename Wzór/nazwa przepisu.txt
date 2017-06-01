@@ -1,6 +1,6 @@
-<liczba>[-<liczba>] <porcja|porcje|porcji>
-<liczba> min|minut|minuty|minuta|h|godzina|godzin|godziny[ pracy][ + <liczba> min|minut|minuty|minuta|h|godzina|godzin|godziny (<co trwa tyle a nie wymaga interwenji>)]
-przystawka|
+<liczba>[-<liczba>] <porcja|porcje|porcji>|przystawka
+<liczba> min|minut|minuty|minuta|h|godzina|godzin|godziny[ pracy][ + <liczba> min|minut|minuty|minuta|h|godzina|godzin|godziny (<co trwa tyle a nie wymaga interwencji>)]
+
 
 <ilość><jednostka> <składnik> (<komentarz o składniku>)
 <ilość><jednostka> <składnik>
