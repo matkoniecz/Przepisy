@@ -8,6 +8,6 @@ Zachęcam do zgłaszania problemów - nawet jeśli to coś tak małego jak liter
 
 W przepisach mogą być pomijane rzeczy oczywiste, takie jak:
 
-Warzywa, owoce trzeba umyć.
+Warzywa, owoce, grzyby trzeba umyć.
 Niektóre warzywa i owoce np. cebule trzeba obrać.
 Niektóre warzywa i owoce np. paprykę trzeba wydrążyć i usunąć gniazda nasienne.
