@@ -11,3 +11,4 @@ W przepisach mogą być pomijane rzeczy oczywiste, takie jak:
 Warzywa, owoce, grzyby trzeba umyć.
 Niektóre warzywa i owoce np. cebule trzeba obrać.
 Niektóre warzywa i owoce np. paprykę trzeba wydrążyć i usunąć gniazda nasienne.
+Warzywa, owoce, grzyby (w tym drożdże) lepsze są świeże.
