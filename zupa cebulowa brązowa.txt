@@ -1,17 +1,20 @@
 6 porcji
+1 godzina (30 min skaluje się liniowo, 30 min stale) + 1,5 godziny oczekiwania na koniec gotowania
+odgrzewana jest równie dobra jak zaraz po ugotowaniu
 X - 1 godzina + 2 godziny oczekiwania na zakończenie gotowania (40 minut skaluje się liniowo, 20 minut jest stałe)
 X - 100 minut, w tym 40 liniowo + 1,5 godziny oczekiwania na koniec gotowania
+X - 25 liniowo, 30 stałe + 1,5 godziny oczekiwania na koniec gotowania
 powyższy czas jest do weryfikacji
 W źródle zatytułowana "French Onion Soup"
 
-1.8 kg cebul (ilość zupy jest kilka razy mniejsza niż ilość cebul, nie bać zrobić się większej porcji bo tą ilość jeden Mateusz potrafi zjeść w jeden dzień)
+2 kg cebul (ilość zupy jest kilka razy mniejsza niż ilość cebul, nie bać zrobić się większej porcji bo tą ilość jeden Mateusz potrafi zjeść w jeden dzień)
 4 ząbki czosnku
-28 g masła
+5 łyżek oliwy lub 30 g masła
 2 liście laurowe
-1 łyżka octu winnego (można pominąć, może być też inny ocet - przetestowac czy on coś zmienia)
-3 łyżeczki soli (mniej, zwłaszcza jeśli wywar z mięsa jest już z solą - np zawiera wodę z oliwek)
-0.5 łyżeczki pieprzu
-1.8 l wody
+1 łyżka octu winnego (można pominąć, może być też inny ocet - przetestować czy on coś zmienia)
+2 łyżeczki soli (mniej jeśli wywar jest już z solą - np zawiera wodę z oliwek)
+0.5 łyżeczki pieprzu czarnego
+2 l wody
 6 kromek chleba
 60g sera żółtego
 
@@ -22,19 +25,17 @@ dodatki:
 (papryka chili)
 (świeży tymianek)
 
-Obrać cebule, pokroić w połówki a potem w półksiężyce.
+Czosnek przecisnąć przez praskę (ewentualnie drobno pokroić)
+Obrać cebule, pokroić w ósemki (drobniej jeśli cebule są duże)
 Kawałki mogą być spore bo cebule będą bardzo długo gotowane.
-Pokroić czosnek.
-Stopić masło w dużym garnku, najlepiej woku.
+Zagrzać tłuszcz w dużym garnku, najlepiej woku.
 Dodać cebule, czosnek, liście laurowe.
-Przykryć i zostawić na 10 minut.
-When
-you come back, the onions should have
-released a lot of moisture. Give them a
-stir.
+Przykryć i zostawić na 10 minut (warto chyba zamieszac w połowie).
+Po tym czasie cebule powinny puścić wodę.
+Wymieszć cebulę.
 
 Wlać ocet i przykryć z powrotem.
-Gotować godzinę, mieszając co 20 minut.
+Gotować godzinę, mieszając co 10 minut.
 
 When the onions at the
 bottom start to stick and turn dark,
@@ -43,13 +44,11 @@ Don’t worry, the onions aren’t burning,
 just caramelizing. The water helps lift
 off the sticky, delicious, sweet part!
 Once the onions are very dark and
-about a quarter the volume they once
-were, add all the water and a bunch of
-salt and pepper. Cover the pot again,
-turn the heat down to low, and let it
-simmer for another hour. Taste and
-adjust salt and pepper as needed.
-Ladle the soup into bowls.
+about a quarter the volume they once were,
+dodaj wodę, sól i pieprz
+łagodnie gotuj pod przykryciem przez godzinę
+
+(a czemu robią się gorzkawe?)
 
 Francuska tradycyjna wersja z rozmoczonymi
 grzankami: włożyć kromkę chleba do zupy,
