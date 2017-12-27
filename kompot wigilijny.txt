@@ -8,6 +8,7 @@ fragment laski cynamonu
 cytryna
 1,2l wody (do śliwek)
 1,2l wody (do fig)
+dac mniej wody (po 1l?) jeśli śliwki nie są wędzone
 
 umyć śliwki jeśli są wędzone
 figi i śliwki namoczyć osobno przez noc
