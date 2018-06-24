@@ -24,6 +24,7 @@ oliwa 25 łyżek (z 0.75 - 1 łyżki na szaszłyk)
 
 można pomijać składniki - na przykład po pominięciu mięsa wyjdzie całkiem dobry szaszłyk wegetariański (patrz plik szaszłyki warzywne.txt)
 można zwiększac ilość składników - jeśli po grillu zostanie nam nadmiar kiełbasy ogniskowej lub jest sezon na cukinię - można śmiało zwiększyć udział tych składników
+przy grillu ogrodowym duże znaczenie mają równe rozmiary rzeczy - by cukinie nie trzymały mięsa nad tacką które się nie piecze
 
 pokroić kurczaka, seler naciowy w kostkę
 oliwek, śliwek nie kroić
