@@ -21,6 +21,7 @@ przyprawa do szaszłyków (bez glutaminianu sodu) [grill pikantny marki Prymat j
 kasza gryczana niepalona 400g (po 50g na porcję?) / makaron 400g (po 50g na porcję?) / ryż / ziemniaki pieczone (ile?) / ziemniaki gotowane
 słonecznik 5 łyżek (?)
 oliwa 25 łyżek (z 0.75 - 1 łyżki na szaszłyk)
+(przetestować: ząbki czosnku)
 
 można pomijać składniki - na przykład po pominięciu mięsa wyjdzie całkiem dobry szaszłyk wegetariański (patrz plik szaszłyki warzywne.txt)
 można zwiększac ilość składników - jeśli po grillu zostanie nam nadmiar kiełbasy ogniskowej lub jest sezon na cukinię - można śmiało zwiększyć udział tych składników
