@@ -1,7 +1,7 @@
 1 porcja
 ? minut
 
-3 jaja
+5 jaj
 50g cebuli (mała)
 sól
 
@@ -11,6 +11,7 @@ opcjonalne:
 (bazylia)
 (1/3 papryki)
 (7 oliwek)
+(szczypiorek)
 
 pokroić cebulę
 przysmażyć cebulę dodać paprykę i dodać oliwki, poddusić
