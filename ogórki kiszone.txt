@@ -1,5 +1,6 @@
-? min
 ? porcji
+? min
+do jedzenia na zimno
 
 ogórki 2,0 kg
 koper (ile? poszedł mejl "dużo")
