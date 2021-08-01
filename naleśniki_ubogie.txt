@@ -1,14 +1,14 @@
-5 porcji
-45 min roboty (ale kucharz może jeść w czasie robienia)
+1 porcja
+? min roboty (ale kucharz może jeść w czasie robienia)
 OK na zimno, bardzo dobre podgrzewane
 
-0,5 kg mąki pszennej (razowa też wychodzi, ale chyba naleśniki są grubsze)
-1l mleka
-5 jajek (6 też może być)
-3 łyżki oleju
+? kg mąki pszennej (razowa też wychodzi, ale chyba naleśniki są grubsze)
+? wody
+? łyżki oleju
 szczypta soli
+(grubo mielony pieprz czarny wmieszać jak są na ostro/słono)
 
-zmiksować składniki
+wymieszać/zmiksować składniki
 
 smażyć na patelni by uzyskać naleśniki (nalewać ciasto na gorącą patelnię)
 
@@ -21,4 +21,4 @@ podawać z dodatkami
 - ser żółty stopiony z szynką
 - itp itd.
 
-źródło: Mama
+źródło: ja
