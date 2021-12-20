@@ -2,10 +2,10 @@
 ? min roboty (ale kucharz może jeść w czasie robienia)
 OK na zimno, bardzo dobre podgrzewane
 
-? kg mąki pszennej (razowa też wychodzi, ale chyba naleśniki są grubsze)
+? kg mąki pszennej (moze być razowa)
 ? wody
 ? łyżki oleju
-szczypta soli
+szczypta soli (więcej, o ile więcej?)
 (grubo mielony pieprz czarny wmieszać jak są na ostro/słono)
 (kminek mielony)
 (czarnuszka)
