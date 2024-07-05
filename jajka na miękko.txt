@@ -1,7 +1,7 @@
-? porcji
-? minut
+1 porcja
+10 minut
 
-jajka
+2 jajka (3?)
 
 zagotować
 wsadzić jajka do gorącej wody (na łyżce)
